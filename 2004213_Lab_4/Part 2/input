@@ -1,0 +1,4 @@
+int main(int a, int b) {
+    float a, b, c;
+    int n;
+}

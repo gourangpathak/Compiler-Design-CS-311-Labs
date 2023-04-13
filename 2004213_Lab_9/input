@@ -1,0 +1,15 @@
+int main()
+{
+int a, b, d;
+a = 6;
+d = 77;
+if(a > d || a > b)
+{
+a =  1;
+}
+else
+{
+a =  1;
+}
+a =  5;
+}

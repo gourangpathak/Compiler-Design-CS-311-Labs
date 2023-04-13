@@ -1,0 +1,9 @@
+int main()
+{
+    int a, b, c;
+    a = b + c;
+    if(a > b) { a = b + c;} else if(a < b){ a = b - c; } else {a = a + b;}
+    while(a || b) { a = a+c; }
+    
+    for(i = 1; i <= 5 ; i = i + 1) { a = a + i; }
+}

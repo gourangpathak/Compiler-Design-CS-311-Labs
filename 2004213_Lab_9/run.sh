@@ -1,0 +1,1 @@
+bison -d parser.y && flex lexer.l && gcc parser.tab.c lex.yy.c -lfl && rm output.ll && ./a.out < input 
