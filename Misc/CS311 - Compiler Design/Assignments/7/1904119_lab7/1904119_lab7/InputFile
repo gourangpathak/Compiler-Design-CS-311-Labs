@@ -1,0 +1,6 @@
+int main()
+beg
+    int a, b;
+    a = 6;
+    b = a * 7;
+end

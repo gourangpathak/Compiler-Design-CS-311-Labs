@@ -1,0 +1,9 @@
+int main()
+{
+    int _a = input();
+    if ( _a < 3)
+    {
+        _a = _a + 2;
+    }
+}
+

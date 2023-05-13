@@ -1,0 +1,3 @@
+Ubuntu: cd "/mnt/c/Users/RITCDEV01/OneDrive/6th Semester @IITGOA/CS311 - Compiler Design/Assignments/8/1904119_lab8"
+
+Command Prompt: cd "C:\Users\RITCDEV01\OneDrive\6th Semester @IITGOA\CS311 - Compiler Design\Assignments\8\1904119_lab8"

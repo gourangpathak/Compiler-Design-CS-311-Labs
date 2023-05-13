@@ -1,0 +1,15 @@
+int main()
+beg
+    int a,b;
+    double c,d;
+    a = 5;
+    b = a + 3;
+    b = a - b;
+    b = a * 5;
+    c = a + 15.5;
+    d = c + 6;
+    d = c - 7.0;
+    d = c + 4;
+    d = c * d;               
+    d = c * 5;
+end
