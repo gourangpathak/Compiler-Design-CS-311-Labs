@@ -1,9 +1,0 @@
-int main()
-beg
-	int a, b, c;
-	a = 6;
-	if(a > 5)
-	beg
-		b = 7;
-	end
-end

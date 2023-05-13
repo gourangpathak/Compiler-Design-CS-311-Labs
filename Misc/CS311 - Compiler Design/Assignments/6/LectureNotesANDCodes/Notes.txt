@@ -1,5 +1,0 @@
-Even the action is also counted under $. 
-
-funcDef : type {strcpy(currType, $1);} ID { strcpy(Function_names[funccount], $3); funccount += 1; add_table($3); } '(' argList ')' '{' declList stmtList '}'
-
-funcDef : type ID { strcpy(Function_names[funccount], $2); funccount += 1; add_table($2); } '(' argList ')' '{' declList stmtList '}' {strcpy(currType, $1);}
